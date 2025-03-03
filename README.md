@@ -28,8 +28,8 @@ python -m pip install sphinx sphinx_rtd_theme myst_parser sphinx_favicon sphinx_
 
 ~~~
 cd my_working_directory
-git clone https://github.com/ZeissIQS/ZeissIQS-pages.git
-git clone https://github.com/ZeissIQS/ZeissIQS.github.io.git
+git clone https://github.com/Zeiss/ZeissIQS-pages.git
+git clone https://github.com/Zeiss/ZeissIQS.github.io.git
 ~~~
 
 ## Editing
