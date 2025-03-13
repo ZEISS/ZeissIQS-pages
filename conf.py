@@ -20,7 +20,7 @@ exclude_patterns = ['README.md']
 
 # -- Options for sitemap -----------------------------------------------------
 # https://sphinx-sitemap.readthedocs.io/en/latest/getting-started.html
-html_baseurl = 'https://zeissiqs.github.io/'
+html_baseurl = 'https://zeiss.github.io/IQS/'
 sitemap_url_scheme = "{link}"
 
 # -- Options for HTML output -------------------------------------------------
