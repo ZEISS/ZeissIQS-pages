@@ -68,4 +68,4 @@ git commit -m "Some useful message"
 git push
 ~~~
 
-* After the changes have been pushed into the 'IQS' repository, the live pages at [https://zeissiqs.github.io](https://zeiss.github.io/IQS/) will be updated automatically after app. one minute.
+* After the changes have been pushed into the 'IQS' repository, the live pages at [https://zeiss.github.io/IQS/](https://zeiss.github.io/IQS/) will be updated automatically after app. one minute.
