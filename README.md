@@ -1,14 +1,14 @@
 # ZeissIQS-pages
 
-Source of the generated documentation in [zeissiqs.github.io](https://zeissiqs.github.io/).
+Source of the generated documentation in [https://github.com/ZEISS/IQS](https://github.com/ZEISS/IQS).
 
 > [!NOTE]
-> Please see [ZEISS Industrial Quality Solutions](https://zeissiqs.github.io) for the resulting rendered output.
+> Please see [ZEISS Industrial Quality Solutions](https://zeiss.github.io/IQS/) for the resulting rendered output.
 
 ## General
 
-* The documentation accessible via [ZeissIQS.github.io](https://github.com/ZeissIQS/ZeissIQS.github.io) is generated from the files in this repository.
-* The [sphinx documentation conversion tool](https://www.sphinx-doc.org) is used for that purpose.
+* The documentation accessible via [https://zeiss.github.io/IQS/](https://github.com/Zeiss/IQS/) is generated from the files in this repository.
+* The [Sphinx documentation conversion tool](https://www.sphinx-doc.org) is used for that purpose.
 * The generated documentation is then committed into a repository with some special name and can the be rendered by the site https://zeissiqs.github.io/.
 
 ## Installation
@@ -29,7 +29,7 @@ python -m pip install sphinx sphinx_rtd_theme myst_parser sphinx_favicon sphinx_
 ~~~
 cd my_working_directory
 git clone https://github.com/Zeiss/ZeissIQS-pages.git
-git clone https://github.com/Zeiss/ZeissIQS.github.io.git
+git clone https://github.com/Zeiss/IQS.git
 ~~~
 
 ## Editing
@@ -42,8 +42,8 @@ git clone https://github.com/Zeiss/ZeissIQS.github.io.git
 
 ### Hints
 
-* The markdown syntax uses the [MyST parser extensions](https://myst-parser.readthedocs.io/en/latest/index.html).
-* The project documentation is based on [sphinx](https://www.sphinx-doc.org/en/master/index.html).
+* The Markdown syntax uses the [MyST parser extensions](https://myst-parser.readthedocs.io/en/latest/index.html).
+* The project documentation is based on [Sphinx](https://www.sphinx-doc.org/en/master/index.html).
 
 
 ## Uploading
@@ -62,10 +62,10 @@ git push
 
 cd ..
 
-cd ZeissIQS.github.io
+cd IQS
 git add -A
 git commit -m "Some useful message"
 git push
 ~~~
 
-* After the changes have been pushed into the 'ZeissIQS.github.io' repository, the live pages at [](https://zeissiqs.github.io) will be updated automatically after app. one minute.
+* After the changes have been pushed into the 'IQS' repository, the live pages at [https://zeissiqs.github.io](https://zeiss.github.io/IQS/) will be updated automatically after app. one minute.
