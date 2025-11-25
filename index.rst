@@ -12,5 +12,6 @@ ZEISS INSPECT Software
 ----------------------
 
 * `ZEISS INSPECT 2022 - App Development Documentation <https://zeissiqs.github.io/gom-software-python-api/2022/>`_
-* `ZEISS INSPECT 2023 - App Development Documentation <https://zeissiqs.github.io/zeiss-inspect-addon-api/2023/>`_
-* `ZEISS INSPECT 2025 - App Development Documentation <https://zeissiqs.github.io/zeiss-inspect-addon-api/2023/>`_
+* `ZEISS INSPECT 2023 - App Development Documentation <https://zeissiqs.github.io/zeiss-inspect-app-api/2023/>`_
+* `ZEISS INSPECT 2025 - App Development Documentation <https://zeissiqs.github.io/zeiss-inspect-app-api/2025/>`_
+* `ZEISS INSPECT 2026 - App Development Documentation <https://zeissiqs.github.io/zeiss-inspect-app-api/2026/>`_
